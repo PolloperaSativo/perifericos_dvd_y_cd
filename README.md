@@ -1,4 +1,4 @@
-1.- Definición del períférico  
+![1.- Definición del períférico](definicion_periferico) 
 
 2.-Características principales  
 
