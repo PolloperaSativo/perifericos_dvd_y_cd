@@ -30,4 +30,4 @@ Los discos ópticos han evolucionado para adaptarse a diferentes necesidades. Es
 ![hddvd](img/hddvd.jpg)
 
 **CD Audio**
-![cdaudio](cdaudio.jpg)
+![cdaudio](img/cdaudio.jpg)
