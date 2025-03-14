@@ -23,3 +23,11 @@ Los discos ópticos han evolucionado para adaptarse a diferentes necesidades. Es
 **DVD-RAM**: Menos común, pero diseñado para un uso intensivo de grabado y borrado.
 
 ![DVR](img/dvdr.jpg)
+
+## Mencion honorífica
+
+**HD DVD**
+![hddvd](img/hddvd.jpg)
+
+**CD Audio**
+![cdaudio](cdaudio.jpg)
