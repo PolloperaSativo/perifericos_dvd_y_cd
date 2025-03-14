@@ -26,8 +26,8 @@ Los discos ópticos han evolucionado para adaptarse a diferentes necesidades. Es
 
 ## Mencion honorífica
 
-**HD DVD**
+**HD DVD**  
 ![hddvd](img/hddvd.jpg)
 
-**CD Audio**
+**CD Audio**  
 ![cdaudio](img/cdaudio.jpg)
