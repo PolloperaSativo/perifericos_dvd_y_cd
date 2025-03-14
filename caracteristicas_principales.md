@@ -10,4 +10,4 @@ Una de sus principales diferencias con otros medios de almacenamiento es su capa
 
 También hay que tener en cuenta que la durabilidad de estos discos depende mucho de su cuidado. Aunque pueden durar años si se almacenan correctamente, son vulnerables a arañazos, polvo y luz solar intensa.
 
-![rayao](rayao.jpg)
+![rayao](img/rayao.jpg)
