@@ -1,12 +1,12 @@
-![1.- Definición del períférico](definicion_periferico) 
+![1.- Definición del períférico](definicion_periferico.md) 
 
-![2.-Características principales](caracteristicas_principales)  
+![2.-Características principales](caracteristicas_principales.md)  
 
-![3.- Tipos](tipos)  
+![3.- Tipos](tipos.md)  
 
-![4.- Ejemplos comerciales](ejemplos_comerciales)  
+![4.- Ejemplos comerciales](ejemplos_comerciales.md)  
 
-![5.- Conclusiones](conclusiones)
+![5.- Conclusiones](conclusiones.md)
 
 Fuentes:  
 [Wikipedia](https://es.wikipedia.org)  
