@@ -7,3 +7,7 @@
 ![4.- Ejemplos comerciales](ejemplos_comerciales)  
 
 ![5.- Conclusiones](conclusiones)
+
+Fuentes:  
+[Wikipedia](https://es.wikipedia.org)  
+[Verbatim](https://www.verbatim.com/)  
